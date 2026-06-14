@@ -6,6 +6,8 @@ I'm currenty and student developer, who is most interested in **EVERYTHING** gam
 
 ## Contact
 
+[titera.dev](https://titera.dev/) - My portfolio web
+[articles.titera.dev](https://articles.titera.dev/) - My articles
 [rodakdev.itch.io](https://rodakdev.itch.io/) - My published games
 
 ## Interesting Projects
